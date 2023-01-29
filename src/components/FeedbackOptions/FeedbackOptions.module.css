@@ -1,0 +1,13 @@
+.buttons {
+    display: flex;
+    gap: 10px;
+};
+
+button {
+    padding: 10px;
+    border-radius: 15%;
+    text-transform: uppercase;
+    background-color: teal;
+    color: #fff;
+    border-color: currentColor;
+}
